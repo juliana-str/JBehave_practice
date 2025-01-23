@@ -11,10 +11,10 @@
 ## 1. Установка <a id=1></a>
 Перед запуском необходимо склонировать проект:
 ```bash
-git clone git@github.com:juliana-str/jbehave_practice.git
+git clone git@github.com:juliana-str/JBehave_practice.git
 ```
 ```
-cd jbehave_practice/
+cd JBehave_practice/
 ``` 
 ## 2. Описание <a id=2></a>
 JBehave - это платформа разработки, ориентированная на поведение. 
